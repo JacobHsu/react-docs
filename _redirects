@@ -354,10 +354,6 @@ https://en.reactjs.org/* https://reactjs.org/:splat 301!
 /warnings/special-props/  /warnings/special-props.html  302
 /warnings/unknown-prop  /warnings/unknown-prop.html  302
 /warnings/unknown-prop/  /warnings/unknown-prop.html  302
-/docs/render-props  /docs/render-props.html  302
-/docs/render-props/  /docs/render-props.html  302
-/docs/release-channels  /docs/release-channels.html  302
-/docs/release-channels/  /docs/release-channels.html  302
 /docs/refs-and-the-dom  /docs/refs-and-the-dom.html  302
 /docs/refs-and-the-dom/  /docs/refs-and-the-dom.html  302
 /docs/working-with-the-browser.html  /docs/refs-and-the-dom.html  302
@@ -366,5 +362,9 @@ https://en.reactjs.org/* https://reactjs.org/:splat 301!
 /docs/more-about-refs-zh-CN.html  /docs/refs-and-the-dom.html  302
 /tips/expose-component-functions.html  /docs/refs-and-the-dom.html  302
 /tips/children-undefined.html  /docs/refs-and-the-dom.html  302
+/docs/release-channels  /docs/release-channels.html  302
+/docs/release-channels/  /docs/release-channels.html  302
+/docs/render-props  /docs/render-props.html  302
+/docs/render-props/  /docs/render-props.html  302
 /blog/  /blog/2021/09/03/react-components.html  302
 /blog  /blog/2021/09/03/react-components.html  302
