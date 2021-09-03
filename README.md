@@ -4,6 +4,29 @@ This repo contains the source code and documentation powering [reactjs.org](http
 
 reactjs /[zh-hant.reactjs.org](https://github.com/reactjs/zh-hant.reactjs.org)
 
+## gatsbyjs
+
+[Deploying to a path on GitHub Pages](https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/how-gatsby-works-with-github-pages/)
+
+gatsby-config.js
+
+```js
+module.exports = {
+  pathPrefix: "/reponame",
+}
+```
+
+package.json
+
+```js
+{
+  "scripts": {
+    "build": "gatsby clean && gatsby build --prefix-paths",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  }
+}
+```
+
 ## Getting started
 
 ### Prerequisites
