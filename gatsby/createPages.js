@@ -62,6 +62,7 @@ module.exports = async ({graphql, actions}) => {
       slug.includes('contributing/') ||
       slug.includes('docs/') ||
       slug.includes('tutorial/') ||
+      slug.includes('debug/') ||
       slug.includes('warnings/')
     ) {
       let template;
@@ -76,6 +77,8 @@ module.exports = async ({graphql, actions}) => {
       ) {
         template = docsTemplate;
       } else if (slug.includes('tutorial/')) {
+        template = tutorialTemplate;
+      } else if (slug.includes('debug/')) {
         template = tutorialTemplate;
       }
 

@@ -5,6 +5,9 @@ items:
   - title: 教學
     to: /tutorial/tutorial.html
     activeSelector: /tutorial
+  - title: 除錯
+    to: /debug/debug.html
+    activeSelector: /debug
   - title: 部落格
     to: /blog/
     activeSelector: /blog
