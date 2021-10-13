@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[React]]></title><description><![CDATA[A JavaScript library for building user interfaces]]></description><link>https://reactjs.org</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 12 Oct 2021 08:00:37 GMT</lastBuildDate><item><title><![CDATA[React components for react]]></title><description><![CDATA[<h2 id="react-modal"><a href="#react-modal" aria-hidden class="anchor"><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://www.npmjs.com/package/react-modal" target="_blank" rel="nofollow noopener noreferrer">react-modal</a></h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[React]]></title><description><![CDATA[A JavaScript library for building user interfaces]]></description><link>https://reactjs.org</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 13 Oct 2021 02:31:27 GMT</lastBuildDate><item><title><![CDATA[React components for react]]></title><description><![CDATA[<h2 id="react-modal"><a href="#react-modal" aria-hidden class="anchor"><svg aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://www.npmjs.com/package/react-modal" target="_blank" rel="nofollow noopener noreferrer">react-modal</a></h2>
 <p><a href="https://github.com/afeiship/react-modal" target="_blank" rel="nofollow noopener noreferrer">react-modal</a></p>
 <p>Modal components for react.</p>]]></description><link>https://reactjs.org/blog/2021/09/03/react-components.html</link><guid isPermaLink="false">https://reactjs.org/blog/2021/09/03/react-components.html</guid><pubDate>Fri, 03 Sep 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[npm react-copy-to-clipboard light-toast]]></title><description><![CDATA[<p><a href="https://www.npmjs.com/package/react-copy-to-clipboard" target="_blank" rel="nofollow noopener noreferrer">react-copy-to-clipboard</a>
 <a href="https://www.npmjs.com/package/light-toast" target="_blank" rel="nofollow noopener noreferrer">light-toast</a></p>
@@ -30,18 +30,193 @@
     <span class="token punctuation">></span></span><span class="token plain-text">
         </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span><span class="token class-name">FileCopyIcon</span></span> <span class="token attr-name">style</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span><span class="token punctuation">{</span> color<span class="token operator">:</span> <span class="token string">'#ffffff'</span> <span class="token punctuation">}</span><span class="token punctuation">}</span></span> <span class="token punctuation">/></span></span><span class="token plain-text">
     </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span><span class="token class-name">CopyToClipboard</span></span><span class="token punctuation">></span></span><span class="token plain-text">
-</span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span><span class="token class-name">ExContainer</span></span><span class="token punctuation">></span></span></code></pre></div>]]></description><link>https://reactjs.org/blog/2021/06/08/react-copy-to-clipboard.html</link><guid isPermaLink="false">https://reactjs.org/blog/2021/06/08/react-copy-to-clipboard.html</guid><pubDate>Tue, 08 Jun 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[Introducing Zero-Bundle-Size React Server Components]]></title><description><![CDATA[<p>2020 has been a long year. As it comes to an end we wanted to share a special Holiday Update on our research into zero-bundle-size <strong>React Server Components</strong>.</p>
-<p>To introduce React Server Components, we have prepared a talk and a demo. If you want, you can check them out during the holidays, or later when work picks back up in the new year.</p>
-<br>
-<div class="gatsby-resp-iframe-wrapper" style="padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; " > <iframe src="https://www.youtube.com/embed/TQQPAU21ZUw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style=" position: absolute; top: 0; left: 0; width: 100%; height: 100%; "></iframe> </div>
-<p><strong>React Server Components are still in research and development.</strong> We are sharing this work in the spirit of transparency and to get initial feedback from the React community. There will be plenty of time for that, so <strong>don’t feel like you have to catch up right now!</strong></p>
-<p>If you want to check them out, we recommend to go in the following order:</p>
-<ol>
-<li><strong>Watch the talk</strong> to learn about React Server Components and see the demo.</li>
-<li><strong><a href="http://github.com/reactjs/server-components-demo" target="_blank" rel="nofollow noopener noreferrer">Clone the demo</a></strong> to play with React Server Components on your computer.</li>
-<li><strong><a href="https://github.com/reactjs/rfcs/pull/188" target="_blank" rel="nofollow noopener noreferrer">Read the RFC (with FAQ at the end)</a></strong> for a deeper technical breakdown and to provide feedback.</li>
-</ol>
-<p>We are excited to hear from you on the RFC or in replies to the <a href="https://twitter.com/reactjs" target="_blank" rel="nofollow noopener noreferrer">@reactjs</a> Twitter handle. Happy holidays, stay safe, and see you next year!</p>]]></description><link>https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html</link><guid isPermaLink="false">https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html</guid><pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[material-ui/icons]]></title><description><![CDATA[<p><a href="https://mui.com/zh/components/material-icons/" target="_blank" rel="nofollow noopener noreferrer">Material 图标</a>
+</span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span><span class="token class-name">ExContainer</span></span><span class="token punctuation">></span></span></code></pre></div>]]></description><link>https://reactjs.org/blog/2021/06/08/react-copy-to-clipboard.html</link><guid isPermaLink="false">https://reactjs.org/blog/2021/06/08/react-copy-to-clipboard.html</guid><pubDate>Tue, 08 Jun 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[Class Component Input Bug]]></title><description><![CDATA[<p>函數式組件和類組件之間有一個非常重要的區別：<strong>函數式組件捕獲了渲染所使用的值</strong></p>
+<p>函數式組件可以理解為一個能返回React元素的函數，其接收一個代表組件屬性的參數<code class="gatsby-code-text">props</code>。</p>
+<p>在React16.8之前，也就是沒有React Hooks之前，函數式組件只作為UI組件，其輸出完全由參數props控制，沒有自身的狀態沒有業務邏輯代碼，是一個純函數。函數式組件沒有實例，沒有生命週期，稱為無狀態組件。</p>
+<p>在React Hooks出現後，可以用Hook賦予函數式組件狀態和生命週期，於是函數式組件也可以作為業務組件。</p>
+<p>開發過程中，類組件和函數式組件都有使用，經過六個月的開發，感覺還是函數式組件比類組件好用一些，感受最深的是以下兩點：</p>
+<ul>
+<li>不用去學習class，不用去管煩人的this指向問題；</li>
+<li>復用性高，很容易就把共同的抽取出來，寫出自定義Hook，來替代高階組件。</li>
+</ul>
+<p>BUG的場景：一個輸入框，輸入完內容，點擊按鈕搜索，搜索時先請求一個接口，獲取一個類型，再用類型和輸入框值去請求搜索接口</p>
+<div class="gatsby-highlight" data-language="jsx"><pre class="gatsby-code-jsx"><code class="gatsby-code-jsx"><span class="token keyword">import</span> React<span class="token punctuation">,</span> <span class="token punctuation">{</span> Component <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">"react"</span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> <span class="token operator">*</span> <span class="token keyword">as</span> <span class="token constant">API</span> <span class="token keyword">from</span> <span class="token string">'api/list'</span><span class="token punctuation">;</span>
+<span class="token keyword">class</span> <span class="token class-name">SearchComponent</span> <span class="token keyword">extends</span> <span class="token class-name">Component</span> <span class="token punctuation">{</span>
+  <span class="token function">constructor</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">super</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">this</span><span class="token punctuation">.</span>state <span class="token operator">=</span> <span class="token punctuation">{</span>
+      inpValue<span class="token operator">:</span> <span class="token string">""</span>
+    <span class="token punctuation">}</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  
+  <span class="token function">getType</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">const</span> param <span class="token operator">=</span> <span class="token punctuation">{</span>
+      val<span class="token operator">:</span><span class="token keyword">this</span><span class="token punctuation">.</span>state<span class="token punctuation">.</span>inpValue
+    <span class="token punctuation">}</span>
+    <span class="token keyword">return</span> <span class="token constant">API</span><span class="token punctuation">.</span><span class="token function">getType</span><span class="token punctuation">(</span>param<span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  
+  <span class="token function">getList</span><span class="token punctuation">(</span><span class="token parameter">type</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+    <span class="token keyword">const</span> param <span class="token operator">=</span> <span class="token punctuation">{</span>
+      val<span class="token operator">:</span><span class="token keyword">this</span><span class="token punctuation">.</span>state<span class="token punctuation">.</span>inpValue<span class="token punctuation">,</span>
+      type<span class="token punctuation">,</span>
+    <span class="token punctuation">}</span>
+    <span class="token keyword">return</span> <span class="token constant">API</span><span class="token punctuation">.</span><span class="token function">getList</span><span class="token punctuation">(</span>param<span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  
+  <span class="token keyword">async</span> <span class="token function">handleSearch</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">const</span> res <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getType</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">const</span> type <span class="token operator">=</span> res<span class="token operator">?.</span>data<span class="token operator">?.</span>type<span class="token punctuation">;</span>
+    <span class="token keyword">const</span> res1 <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getList</span><span class="token punctuation">(</span>type<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>res1<span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  
+  <span class="token function">render</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">return</span> <span class="token punctuation">(</span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span><span class="token punctuation">></span></span><span class="token plain-text">
+        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span>
+          <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text<span class="token punctuation">"</span></span>
+          <span class="token attr-name">value</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span><span class="token keyword">this</span><span class="token punctuation">.</span>state<span class="token punctuation">.</span>inpValue<span class="token punctuation">}</span></span>
+          <span class="token attr-name">onChange</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span><span class="token punctuation">(</span><span class="token parameter">e</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
+            <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">setState</span><span class="token punctuation">(</span><span class="token punctuation">{</span> inpValue<span class="token operator">:</span> e<span class="token punctuation">.</span>target<span class="token punctuation">.</span>value <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+          <span class="token punctuation">}</span><span class="token punctuation">}</span></span>
+        <span class="token punctuation">/></span></span><span class="token plain-text">
+        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>button</span>
+          <span class="token attr-name">onClick</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
+            <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">handleSearch</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+          <span class="token punctuation">}</span><span class="token punctuation">}</span></span>
+        <span class="token punctuation">></span></span><span class="token plain-text">
+          搜索
+        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>button</span><span class="token punctuation">></span></span><span class="token plain-text">
+      </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+<span class="token keyword">export</span> <span class="token keyword">default</span> SearchComponent<span class="token punctuation">;</span></code></pre></div>
+<p>BUG：在輸入框輸入要搜索的內容後，點擊搜索按鈕開始搜索，然後很快在輸入框中又輸入內容，結果搜索接口getList報錯。查一下原因，發現是獲取類型接口getType和搜索接口getList接受的參數val不一致。明明兩次請求中val都是讀取this.state.inpValue的值。</p>
+<p>函數式組件就可解決這個BUG</p>
+<div class="gatsby-highlight" data-language="jsx"><pre class="gatsby-code-jsx"><code class="gatsby-code-jsx"><span class="token keyword">import</span> React<span class="token punctuation">,</span> <span class="token punctuation">{</span> Component <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">"react"</span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> <span class="token operator">*</span> <span class="token keyword">as</span> <span class="token constant">API</span> <span class="token keyword">from</span> <span class="token string">'api/list'</span><span class="token punctuation">;</span>
+<span class="token keyword">class</span> <span class="token class-name">SearchComponent</span> <span class="token keyword">extends</span> <span class="token class-name">Component</span> <span class="token punctuation">{</span>
+  <span class="token keyword">const</span> <span class="token punctuation">[</span>inpValue<span class="token punctuation">,</span>setInpValue<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token function">useState</span><span class="token punctuation">(</span><span class="token string">''</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// add</span>
+
+  <span class="token function">constructor</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">super</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">this</span><span class="token punctuation">.</span>state <span class="token operator">=</span> <span class="token punctuation">{</span>
+      inpValue<span class="token operator">:</span> <span class="token string">""</span>
+    <span class="token punctuation">}</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  
+  <span class="token function">getType</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">const</span> param <span class="token operator">=</span> <span class="token punctuation">{</span>
+      val<span class="token operator">:</span>inpValue <span class="token comment">// val:this.state.inpValue</span>
+    <span class="token punctuation">}</span>
+    <span class="token keyword">return</span> <span class="token constant">API</span><span class="token punctuation">.</span><span class="token function">getType</span><span class="token punctuation">(</span>param<span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  
+  <span class="token function">getList</span><span class="token punctuation">(</span><span class="token parameter">type</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+    <span class="token keyword">const</span> param <span class="token operator">=</span> <span class="token punctuation">{</span>
+      val<span class="token operator">:</span>inpValue<span class="token punctuation">,</span> <span class="token comment">// val:this.state.inpValue,</span>
+      type<span class="token punctuation">,</span>
+    <span class="token punctuation">}</span>
+    <span class="token keyword">return</span> <span class="token constant">API</span><span class="token punctuation">.</span><span class="token function">getList</span><span class="token punctuation">(</span>param<span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  
+  <span class="token keyword">async</span> <span class="token function">handleSearch</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">const</span> res <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getType</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">const</span> type <span class="token operator">=</span> res<span class="token operator">?.</span>data<span class="token operator">?.</span>type<span class="token punctuation">;</span>
+    <span class="token keyword">const</span> res1 <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getList</span><span class="token punctuation">(</span>type<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>res1<span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  
+  <span class="token function">render</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">return</span> <span class="token punctuation">(</span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span><span class="token punctuation">></span></span><span class="token plain-text">
+        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span>
+          <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text<span class="token punctuation">"</span></span>
+          <span class="token attr-name">value</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span><span class="token keyword">this</span><span class="token punctuation">.</span>state<span class="token punctuation">.</span>inpValue<span class="token punctuation">}</span></span>
+          <span class="token attr-name">onChange</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span><span class="token punctuation">(</span><span class="token parameter">e</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
+            <span class="token comment">// this.setState({ inpValue: e.target.value });</span>
+            <span class="token function">setInpValue</span><span class="token punctuation">(</span>e<span class="token punctuation">.</span>target<span class="token punctuation">.</span>value<span class="token punctuation">)</span><span class="token punctuation">;</span>
+          <span class="token punctuation">}</span><span class="token punctuation">}</span></span>
+        <span class="token punctuation">/></span></span><span class="token plain-text">
+        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>button</span>
+          <span class="token attr-name">onClick</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
+            <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">handleSearch</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+          <span class="token punctuation">}</span><span class="token punctuation">}</span></span>
+        <span class="token punctuation">></span></span><span class="token plain-text">
+          搜索
+        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>button</span><span class="token punctuation">></span></span><span class="token plain-text">
+      </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+<span class="token keyword">export</span> <span class="token keyword">default</span> SearchComponent<span class="token punctuation">;</span></code></pre></div>
+<p>函數式組件中的事件的state和props所獲取的值是事件觸發那一刻頁面渲染所用的state和props的值。
+當點擊搜索按鈕後，<code class="gatsby-code-text">val</code>的值就是那一刻輸入框中的值，無論輸入框後面的值在怎麼改變，不會捕獲最新的值。</p>
+<p>那為啥類組件中，能獲取到最新的state值呢？關鍵在於類組件中是通過<code class="gatsby-code-text">this</code>去獲取state的，而<code class="gatsby-code-text">this</code>永遠是最新的組件實例。</p>
+<p>類組件的改法</p>
+<div class="gatsby-highlight" data-language="jsx"><pre class="gatsby-code-jsx"><code class="gatsby-code-jsx"><span class="token keyword">import</span> React<span class="token punctuation">,</span> <span class="token punctuation">{</span> Component <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">"react"</span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> <span class="token operator">*</span> <span class="token keyword">as</span> <span class="token constant">API</span> <span class="token keyword">from</span> <span class="token string">'api/list'</span><span class="token punctuation">;</span>
+<span class="token keyword">class</span> <span class="token class-name">SearchComponent</span> <span class="token keyword">extends</span> <span class="token class-name">Component</span> <span class="token punctuation">{</span>
+  <span class="token function">constructor</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">super</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">this</span><span class="token punctuation">.</span>state <span class="token operator">=</span> <span class="token punctuation">{</span>
+      inpValue<span class="token operator">:</span> <span class="token string">""</span>
+    <span class="token punctuation">}</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  
+  <span class="token function">getType</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">const</span> param <span class="token operator">=</span> <span class="token punctuation">{</span>
+       val<span class="token punctuation">,</span> <span class="token comment">// val:this.state.inpValue</span>
+    <span class="token punctuation">}</span>
+    <span class="token keyword">return</span> <span class="token constant">API</span><span class="token punctuation">.</span><span class="token function">getType</span><span class="token punctuation">(</span>param<span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  
+  <span class="token function">getList</span><span class="token punctuation">(</span><span class="token parameter">type</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+    <span class="token keyword">const</span> param <span class="token operator">=</span> <span class="token punctuation">{</span>
+      val<span class="token punctuation">,</span> <span class="token comment">// val:this.state.inpValue,</span>
+      type<span class="token punctuation">,</span>
+    <span class="token punctuation">}</span>
+    <span class="token keyword">return</span> <span class="token constant">API</span><span class="token punctuation">.</span><span class="token function">getList</span><span class="token punctuation">(</span>param<span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  
+  <span class="token keyword">async</span> <span class="token function">handleSearch</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">const</span> inpValue <span class="token operator">=</span> <span class="token keyword">this</span><span class="token punctuation">.</span>state<span class="token punctuation">.</span>inpValue<span class="token punctuation">;</span> <span class="token comment">// add </span>
+    <span class="token keyword">const</span> res <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getType</span><span class="token punctuation">(</span>inpValue<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">const</span> type <span class="token operator">=</span> res<span class="token operator">?.</span>data<span class="token operator">?.</span>type<span class="token punctuation">;</span>
+    <span class="token keyword">const</span> res1 <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">getList</span><span class="token punctuation">(</span>inpValue<span class="token punctuation">,</span> type<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>res1<span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+  
+  <span class="token function">render</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">return</span> <span class="token punctuation">(</span>
+      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span><span class="token punctuation">></span></span><span class="token plain-text">
+        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span>
+          <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>text<span class="token punctuation">"</span></span>
+          <span class="token attr-name">value</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span><span class="token keyword">this</span><span class="token punctuation">.</span>state<span class="token punctuation">.</span>inpValue<span class="token punctuation">}</span></span>
+          <span class="token attr-name">onChange</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span><span class="token punctuation">(</span><span class="token parameter">e</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
+            <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">setState</span><span class="token punctuation">(</span><span class="token punctuation">{</span> inpValue<span class="token operator">:</span> e<span class="token punctuation">.</span>target<span class="token punctuation">.</span>value <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+          <span class="token punctuation">}</span><span class="token punctuation">}</span></span>
+        <span class="token punctuation">/></span></span><span class="token plain-text">
+        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>button</span>
+          <span class="token attr-name">onClick</span><span class="token script language-javascript"><span class="token script-punctuation punctuation">=</span><span class="token punctuation">{</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
+            <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">handleSearch</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+          <span class="token punctuation">}</span><span class="token punctuation">}</span></span>
+        <span class="token punctuation">></span></span><span class="token plain-text">
+          搜索
+        </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>button</span><span class="token punctuation">></span></span><span class="token plain-text">
+      </span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>
+    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+<span class="token keyword">export</span> <span class="token keyword">default</span> SearchComponent<span class="token punctuation">;</span></code></pre></div>
+<p>在搜索事件<code class="gatsby-code-text">handleSearch</code>觸發時，就把輸入框的值this.state.inpValue存在<code class="gatsby-code-text">inpValue</code>變量中，後續執行的事件用到輸入框的值都去inpValue變量取，
+後續再往輸入框輸入內容也不會影響到inpValue變量的值，除非再次觸發搜索事件<code class="gatsby-code-text">handleSearch</code>。這樣修改也可以解決這個BUG。</p>
+<p>References:
+<a href="https://zh-hant.reactjs.org/docs/components-and-props.html" target="_blank" rel="nofollow noopener noreferrer">Function Component 與 Class Component</a>
+<a href="https://juejin.cn/post/7018328359742636039" target="_blank" rel="nofollow noopener noreferrer">關於函數式組件的收獲</a></p>]]></description><link>https://reactjs.org/blog/2020/12/21/class-component-input-bug.html</link><guid isPermaLink="false">https://reactjs.org/blog/2020/12/21/class-component-input-bug.html</guid><pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[material-ui/icons]]></title><description><![CDATA[<p><a href="https://mui.com/zh/components/material-icons/" target="_blank" rel="nofollow noopener noreferrer">Material 图标</a>
 <a href="https://mui.com/zh/api/icon/" target="_blank" rel="nofollow noopener noreferrer">Icon API</a></p>
 <div class="gatsby-highlight" data-language="jsx"><pre class="gatsby-code-jsx"><code class="gatsby-code-jsx"><span class="token keyword">import</span> ArrowDropDownIcon <span class="token keyword">from</span> <span class="token string">'@material-ui/icons/ArrowDropDownIcon'</span><span class="token punctuation">;</span>
 
